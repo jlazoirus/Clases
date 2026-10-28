@@ -1,0 +1,726 @@
+{
+  "fecha_corte": "2026-10-27",
+  "nota": "Inventario parcial de archivos localizados para reunir contexto docente de Jonathan Lazo en Repensar. Localizar un archivo no confirma su autoría ni su dictado. contenido_leido solo describe las lecturas hechas por el agente principal; otros documentos fueron leídos por agentes colaboradores.",
+  "archivos": [
+    {
+      "titulo": "Template Repensar",
+      "id": "143vd3Mlc5s2Gdoj-0DNmS6lFbpzBnV8G7o7tQyMewLg",
+      "url": "https://docs.google.com/presentation/d/143vd3Mlc5s2Gdoj-0DNmS6lFbpzBnV8G7o7tQyMewLg/edit?usp=drivesdk",
+      "tipo": "application/vnd.google-apps.presentation",
+      "modificado": "2025-08-25T06:26:07.950Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "Repensar - Testplan",
+      "id": "132FrbYWslK1PM25YHSrJscim7Y-ca0KPg04ZYINaYM8",
+      "url": "https://docs.google.com/document/d/132FrbYWslK1PM25YHSrJscim7Y-ca0KPg04ZYINaYM8/edit?usp=drivesdk",
+      "tipo": "application/vnd.google-apps.document",
+      "modificado": "2024-08-20T16:05:43.797Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 5 MET01 - Voz Cliente.pdf",
+      "id": "1G3Kro0UE7x0jXoES6CYXxOJ4FPPoknJh",
+      "url": "https://drive.google.com/file/d/1G3Kro0UE7x0jXoES6CYXxOJ4FPPoknJh/view?usp=drivesdk",
+      "tipo": "application/pdf",
+      "modificado": "2025-09-24T03:47:10.000Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "2024 Cronograma Product Design PD010 y PD011",
+      "id": "1mozBf4Lhrej55qOLBLHizF1y5v4wGRnDUB00OHtT_Fs",
+      "url": "https://docs.google.com/spreadsheets/d/1mozBf4Lhrej55qOLBLHizF1y5v4wGRnDUB00OHtT_Fs/edit?usp=drivesdk",
+      "tipo": "application/vnd.google-apps.spreadsheet",
+      "modificado": "2025-01-21T19:37:01.999Z",
+      "contenido_leido": true
+    },
+    {
+      "titulo": "PD07 - S9 _  Ideación - Brainstorming",
+      "id": "1zdil4BoeufzGvD0AYJd9EH0Y5RcOHR4hhZXM5hzJQ4o",
+      "url": "https://docs.google.com/presentation/d/1zdil4BoeufzGvD0AYJd9EH0Y5RcOHR4hhZXM5hzJQ4o/edit?usp=drivesdk",
+      "tipo": "application/vnd.google-apps.presentation",
+      "modificado": "2024-04-16T02:06:56.411Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 4 MET01 - Intro a las metricas de experiencia y producto.pdf",
+      "id": "1wZLlONF9ZdPOCzNc_s4hyyK5AsW3w1BJ",
+      "url": "https://drive.google.com/file/d/1wZLlONF9ZdPOCzNc_s4hyyK5AsW3w1BJ/view?usp=drivesdk",
+      "tipo": "application/pdf",
+      "modificado": "2025-10-06T23:42:20.551Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "Brief Métricas 01 - Business Case.docx",
+      "id": "16XNG6B5ddXFEwUlTOTxKB0YG1K7ECT9E",
+      "url": "https://docs.google.com/document/d/16XNG6B5ddXFEwUlTOTxKB0YG1K7ECT9E/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "modificado": "2025-08-25T20:55:44.892Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESION 6 MET01 - Metricas digitales.pdf",
+      "id": "1GHAt-Fr6MNSlfNMith7RR7I2CU42oAo2",
+      "url": "https://drive.google.com/file/d/1GHAt-Fr6MNSlfNMith7RR7I2CU42oAo2/view?usp=drivesdk",
+      "tipo": "application/pdf",
+      "modificado": "2025-09-24T03:47:16.000Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 11 MET01 - Working session.pptx.pdf",
+      "id": "1eosh2m9ktfIz1gzhS_N03KapXwqCGBqT",
+      "url": "https://drive.google.com/file/d/1eosh2m9ktfIz1gzhS_N03KapXwqCGBqT/view?usp=drivesdk",
+      "tipo": "application/pdf",
+      "modificado": "2025-10-17T09:15:48.000Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 12 MET01 - Working session.pptx.pdf",
+      "id": "1MhsURLEockVl3rmrMa1v21q05ntLmpl5",
+      "url": "https://drive.google.com/file/d/1MhsURLEockVl3rmrMa1v21q05ntLmpl5/view?usp=drivesdk",
+      "tipo": "application/pdf",
+      "modificado": "2025-10-17T09:15:39.000Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 9 MET01 - Working session.pdf",
+      "id": "15VIpkR3f0IkDTo14D58CSTLb8YEvUzBB",
+      "url": "https://drive.google.com/file/d/15VIpkR3f0IkDTo14D58CSTLb8YEvUzBB/view?usp=drivesdk",
+      "tipo": "application/pdf",
+      "modificado": "2025-10-06T23:41:31.077Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 8 MET01 - Funnels, generación de insights y optimización del producto digital.pdf",
+      "id": "1kMozZ0ZZzhJsSl6a2nRJzsXTXORZFnXQ",
+      "url": "https://drive.google.com/file/d/1kMozZ0ZZzhJsSl6a2nRJzsXTXORZFnXQ/view?usp=drivesdk",
+      "tipo": "application/pdf",
+      "modificado": "2025-09-24T03:39:59.000Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 2 MET01 - Métricas clave de negocio.pdf",
+      "id": "1TUKGhXoVeM61N60Z5bJ4uI-lZKrj64oA",
+      "url": "https://drive.google.com/file/d/1TUKGhXoVeM61N60Z5bJ4uI-lZKrj64oA/view?usp=drivesdk",
+      "tipo": "application/pdf",
+      "modificado": "2025-09-24T03:41:53.000Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "PD007",
+      "id": "1o9FT4zlkIGChWq967lT4EtF3gjFZ5Q9t",
+      "url": "https://drive.google.com/drive/folders/1o9FT4zlkIGChWq967lT4EtF3gjFZ5Q9t",
+      "tipo": "application/vnd.google-apps.folder",
+      "modificado": "2024-05-31T21:10:27.779Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 7 MET01 - Frameworks de foco y seguimiento.pdf",
+      "id": "1k5YQmDSpINbT5clnAXXaVki77jWx7tyN",
+      "url": "https://drive.google.com/file/d/1k5YQmDSpINbT5clnAXXaVki77jWx7tyN/view?usp=drivesdk",
+      "tipo": "application/pdf",
+      "modificado": "2025-09-24T03:40:13.000Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 1 MET01 - Estrategia de negocio aplicada a producto y tipos de métricas.pdf",
+      "id": "1JptqiWe13od99XQPWme0M9R2fTpDU_K0",
+      "url": "https://drive.google.com/file/d/1JptqiWe13od99XQPWme0M9R2fTpDU_K0/view?usp=drivesdk",
+      "tipo": "application/pdf",
+      "modificado": "2025-09-24T03:41:40.000Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 1 MET02 - Estrategia de negocio aplicada a producto y tipos de métricas.pptx.pdf",
+      "id": "1jxq3rd7rff9wA6ULy3_p5W0_xwPbto0m",
+      "url": "https://drive.google.com/file/d/1jxq3rd7rff9wA6ULy3_p5W0_xwPbto0m/view?usp=drivesdk",
+      "tipo": "application/pdf",
+      "modificado": "2025-11-06T16:39:23.000Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "PD009",
+      "id": "1QHvdQzBtK0xgoJfOEedmWAhQ7VQnbbKP",
+      "url": "https://drive.google.com/drive/folders/1QHvdQzBtK0xgoJfOEedmWAhQ7VQnbbKP",
+      "tipo": "application/vnd.google-apps.folder",
+      "modificado": "2024-10-11T21:27:27.241Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "PD010",
+      "id": "1IkUX1765qwYg41b0yXqYyRDgb6ICJDy8",
+      "url": "https://drive.google.com/drive/folders/1IkUX1765qwYg41b0yXqYyRDgb6ICJDy8",
+      "tipo": "application/vnd.google-apps.folder",
+      "modificado": "2024-09-17T16:24:45.335Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "PD008",
+      "id": "1uTfeivRlCbclvO9cAKUYLyo8NSVwzJyh",
+      "url": "https://drive.google.com/drive/folders/1uTfeivRlCbclvO9cAKUYLyo8NSVwzJyh",
+      "tipo": "application/vnd.google-apps.folder",
+      "modificado": "2024-08-13T21:13:11.910Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "PD006",
+      "id": "1GQbJv8NWH8Ke8m96ArDov_X7pQ28sx_D",
+      "url": "https://drive.google.com/drive/folders/1GQbJv8NWH8Ke8m96ArDov_X7pQ28sx_D",
+      "tipo": "application/vnd.google-apps.folder",
+      "modificado": "2024-05-07T20:09:53.164Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "PD07 - Toolkit _  Ideación - Brainstorming",
+      "id": "1iiM2Wp22TlACY8HwWoB-xXS6zJ_HJ9JvNQVsQbpXucY",
+      "url": "https://docs.google.com/presentation/d/1iiM2Wp22TlACY8HwWoB-xXS6zJ_HJ9JvNQVsQbpXucY/edit?usp=drivesdk",
+      "tipo": "application/vnd.google-apps.presentation",
+      "modificado": "2024-04-16T00:20:17.182Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "PD06 - W2 | WS Construcción de benchmark",
+      "id": "1eHuU5_x2_KU7NCYBI4b0TXi044q4RJNyYit43nvZ2FM",
+      "url": "https://docs.google.com/presentation/d/1eHuU5_x2_KU7NCYBI4b0TXi044q4RJNyYit43nvZ2FM/edit?usp=drivesdk",
+      "tipo": "application/vnd.google-apps.presentation",
+      "modificado": "2023-10-31T21:55:20.832Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "PD03 - SP4 | WS Conclusiones e hipótesis",
+      "id": "1M4sAYCAyX_axijotKLjSAlTEQHQbfjd0KvRkePcW5MY",
+      "url": "https://docs.google.com/presentation/d/1M4sAYCAyX_axijotKLjSAlTEQHQbfjd0KvRkePcW5MY/edit?usp=drivesdk",
+      "tipo": "application/vnd.google-apps.presentation",
+      "modificado": "2023-10-23T23:57:10.663Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 3 PD010 _ Product Strategy: Ciclo de vida de productos.pptx",
+      "id": "1R4AAqr46cjC-rWIX2NWEfPe1pDG-qepn",
+      "url": "https://docs.google.com/presentation/d/1R4AAqr46cjC-rWIX2NWEfPe1pDG-qepn/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2024-11-13T17:30:04.818Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 10 MET01 - Growth framework y experimentación.pdf",
+      "id": "1Q4EqPSbfgS0Opx1Eoa--AiQzTZJWHXoX",
+      "url": "https://drive.google.com/file/d/1Q4EqPSbfgS0Opx1Eoa--AiQzTZJWHXoX/view?usp=drivesdk",
+      "tipo": "application/pdf",
+      "modificado": "2025-10-06T23:41:39.455Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "Manual Design Critiques",
+      "id": "10YAOuBwL4bA_q0jQSo22AGujizLwgaVTkfrk8cMq2gU",
+      "url": "https://docs.google.com/presentation/d/10YAOuBwL4bA_q0jQSo22AGujizLwgaVTkfrk8cMq2gU/edit?usp=drivesdk",
+      "tipo": "application/vnd.google-apps.presentation",
+      "modificado": "2024-08-14T16:54:53.594Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "PD0X - Sesión XX - Nombre sesión - Camilo Ripas.pptx",
+      "id": "1wySWQuVyXexMY_otJ1_Rww4eK3ik2NWv",
+      "url": "https://docs.google.com/presentation/d/1wySWQuVyXexMY_otJ1_Rww4eK3ik2NWv/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2024-05-29T23:42:19.061Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "PD0X - Sesión XX - Nombre sesión - Jonathan Lazo.pptx",
+      "id": "1hpTrAPNUyTq_DKWs_qr0r_6iLVXeAQiL",
+      "url": "https://docs.google.com/presentation/d/1hpTrAPNUyTq_DKWs_qr0r_6iLVXeAQiL/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2024-06-08T17:11:03.654Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 6 PD010 _ Design Research I - Planificación y estrategia de la investigación",
+      "id": "1ccYMatq1GC6tWng7jwUGZzQGxVjWMubkfhIRDGrvH8k",
+      "url": "https://docs.google.com/presentation/d/1ccYMatq1GC6tWng7jwUGZzQGxVjWMubkfhIRDGrvH8k/edit?usp=drivesdk",
+      "tipo": "application/vnd.google-apps.presentation",
+      "modificado": "2024-11-13T17:33:46.244Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "Cronograma Estrategia & Métricas de productos.xlsx",
+      "id": "1c9NRDBfM2GZkDlHCNmZwl0nU88GjWTlR",
+      "url": "https://docs.google.com/spreadsheets/d/1c9NRDBfM2GZkDlHCNmZwl0nU88GjWTlR/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "modificado": "2025-10-06T23:58:14.834Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "Cronograma Design System .xlsx",
+      "id": "16i8UpZa_0UI8JfxD3X60lYdjQqgkRXkI",
+      "url": "https://docs.google.com/spreadsheets/d/16i8UpZa_0UI8JfxD3X60lYdjQqgkRXkI/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "modificado": "2026-08-12T00:20:07.429Z",
+      "contenido_leido": true
+    },
+    {
+      "titulo": "2024 Cronograma Product Design PD03 hasta PD07.xlsx",
+      "id": "1J4yFOQlfeCaTImYmA5Y_pBajCOrku3fd",
+      "url": "https://docs.google.com/spreadsheets/d/1J4yFOQlfeCaTImYmA5Y_pBajCOrku3fd/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "modificado": "2024-06-26T23:11:16.349Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "Cronograma Estrategia y Métricas de Producto .xlsx",
+      "id": "1haIWgJiZoET7cleUvyrW2I-OiNpZrIEj",
+      "url": "https://docs.google.com/spreadsheets/d/1haIWgJiZoET7cleUvyrW2I-OiNpZrIEj/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "modificado": "2026-02-11T17:02:29.033Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "Cronograma Estrategia y Métricas de Producto .xlsx",
+      "id": "1215hoY5WvRd0hWO-WxSoAsF1_Nv_AXQg",
+      "url": "https://docs.google.com/spreadsheets/d/1215hoY5WvRd0hWO-WxSoAsF1_Nv_AXQg/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "modificado": "2026-07-12T23:35:08.999Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "Talk métricas.pptx",
+      "id": "1gIP2tJEq5AJl4tsJaq-f-Xis_olbnR3C",
+      "url": "https://docs.google.com/presentation/d/1gIP2tJEq5AJl4tsJaq-f-Xis_olbnR3C/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2026-10-23T22:18:38.072Z",
+      "contenido_leido": true
+    },
+    {
+      "titulo": "SESIÓN 10 MET05 - Growth framework y experimentación.pptx",
+      "id": "1PSByvj0CCX6mEd8ORwi2D8_DSRKqOpm6",
+      "url": "https://docs.google.com/presentation/d/1PSByvj0CCX6mEd8ORwi2D8_DSRKqOpm6/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2026-08-18T01:02:57.526Z",
+      "contenido_leido": true
+    },
+    {
+      "titulo": "SESIÓN 7 MET05 - Frameworks de foco y seguimiento.pptx",
+      "id": "1OiDnzlH3DOXu6hqBeJS9ijdWvr_WjdY2",
+      "url": "https://docs.google.com/presentation/d/1OiDnzlH3DOXu6hqBeJS9ijdWvr_WjdY2/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2026-08-03T20:57:32.194Z",
+      "contenido_leido": true
+    },
+    {
+      "titulo": "MET02",
+      "id": "1HhLBTVg3qok8759A9mVlhzOZBeWzAKzM",
+      "url": "https://drive.google.com/drive/folders/1HhLBTVg3qok8759A9mVlhzOZBeWzAKzM",
+      "tipo": "application/vnd.google-apps.folder",
+      "modificado": "2026-06-22T16:00:06.188Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "MET01",
+      "id": "1sV9MpkdpwbXMd5L8Eja9ciG08vaHEb1b",
+      "url": "https://drive.google.com/drive/folders/1sV9MpkdpwbXMd5L8Eja9ciG08vaHEb1b",
+      "tipo": "application/vnd.google-apps.folder",
+      "modificado": "2026-06-22T15:59:37.916Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "MET03",
+      "id": "1W4aafaMhfjiO5-Acd4O_4agmPTbunJTU",
+      "url": "https://drive.google.com/drive/folders/1W4aafaMhfjiO5-Acd4O_4agmPTbunJTU",
+      "tipo": "application/vnd.google-apps.folder",
+      "modificado": "2026-06-22T14:13:06.363Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "MET04",
+      "id": "1pYomMzQDeZeRzQ_zH20wPrXgOEOTVxGS",
+      "url": "https://drive.google.com/drive/folders/1pYomMzQDeZeRzQ_zH20wPrXgOEOTVxGS",
+      "tipo": "application/vnd.google-apps.folder",
+      "modificado": "2026-06-22T14:11:37.445Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 8 MET02 - Frameworks de foco y seguimiento.pptx",
+      "id": "1vuPuzFgW-BLz6WGprSvaMv1jYt3cdWe1",
+      "url": "https://docs.google.com/presentation/d/1vuPuzFgW-BLz6WGprSvaMv1jYt3cdWe1/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2025-12-19T23:54:03.982Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 13 MET02 - Working session.pptx",
+      "id": "1bCQtgA0fmWrpKfDltC1ZxiFXtt4fY_sw",
+      "url": "https://docs.google.com/presentation/d/1bCQtgA0fmWrpKfDltC1ZxiFXtt4fY_sw/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2025-12-19T23:51:20.431Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 11 MET01 - Working session.pptx",
+      "id": "1do15q8I1CL2kU-Xm-DKs0q3O_G0wcaLS",
+      "url": "https://docs.google.com/presentation/d/1do15q8I1CL2kU-Xm-DKs0q3O_G0wcaLS/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2025-12-17T22:29:18.279Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 11 MET02 - Growth framework y experimentación.pptx",
+      "id": "15mqJvHPRAi4Z3wgo1_17DJkW5kcuWoHz",
+      "url": "https://docs.google.com/presentation/d/15mqJvHPRAi4Z3wgo1_17DJkW5kcuWoHz/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2025-12-15T23:40:25.437Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 10 MET02 - Working session.pptx",
+      "id": "1mfm1r2pqXKOft0Li1DxPGuhbg3OY4lxk",
+      "url": "https://docs.google.com/presentation/d/1mfm1r2pqXKOft0Li1DxPGuhbg3OY4lxk/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2025-12-09T15:43:33.535Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 9 MET02 - Funnels, generación de insights y optimización del producto digital.pptx",
+      "id": "1aem68Xo3w_cHKdVlyxknczJlSBv-CpXZ",
+      "url": "https://docs.google.com/presentation/d/1aem68Xo3w_cHKdVlyxknczJlSBv-CpXZ/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2025-12-04T01:55:39.204Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "Encuesta Sesión 09",
+      "id": "1RoF0tuFi-o7LY7-cD7dcO1eB4y45dRqem3pbrN9xgQQ",
+      "url": "https://docs.google.com/forms/d/1RoF0tuFi-o7LY7-cD7dcO1eB4y45dRqem3pbrN9xgQQ/edit?usp=drivesdk",
+      "tipo": "application/vnd.google-apps.form",
+      "modificado": "2025-12-04T01:22:41.657Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "Copy of Encuesta Sesión 08",
+      "id": "1jv1qdYpDqnuluA8saJmyrsmA8DxA_t5Ni5Qs0hE5Zmw",
+      "url": "https://docs.google.com/forms/d/1jv1qdYpDqnuluA8saJmyrsmA8DxA_t5Ni5Qs0hE5Zmw/edit?usp=drivesdk",
+      "tipo": "application/vnd.google-apps.form",
+      "modificado": "2025-12-02T02:08:36.878Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 7 MET01 - Frameworks de foco y seguimiento.pptx",
+      "id": "1mdLzfo5yIy3LYDWf-lPV4QLnvzty8HWV",
+      "url": "https://docs.google.com/presentation/d/1mdLzfo5yIy3LYDWf-lPV4QLnvzty8HWV/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2025-12-01T02:25:56.074Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 2 MET02 - Métricas clave de negocio.pptx",
+      "id": "1adFsqSi7GlhkmJplfY7Lz27kngLnAPUw",
+      "url": "https://docs.google.com/presentation/d/1adFsqSi7GlhkmJplfY7Lz27kngLnAPUw/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2025-11-11T01:25:14.459Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "Encuesta Sesión 02",
+      "id": "10q2l0Zbto8Tx4jtuxaiIL8WVEbKF2KLr301LmOoNSCs",
+      "url": "https://docs.google.com/forms/d/10q2l0Zbto8Tx4jtuxaiIL8WVEbKF2KLr301LmOoNSCs/edit?usp=drivesdk",
+      "tipo": "application/vnd.google-apps.form",
+      "modificado": "2025-11-10T16:44:51.542Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 2 MET01 - Métricas clave de negocio.pptx",
+      "id": "1Jt194_ry1qx2-9ETkMIH4qxZYbfVO2tf",
+      "url": "https://docs.google.com/presentation/d/1Jt194_ry1qx2-9ETkMIH4qxZYbfVO2tf/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2025-11-10T16:15:09.331Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "Encuesta Sesión 01",
+      "id": "11gXlXvkFH_cTo6HM9w6MuJ9rjb5_Nxb9O538ovgxReY",
+      "url": "https://docs.google.com/forms/d/11gXlXvkFH_cTo6HM9w6MuJ9rjb5_Nxb9O538ovgxReY/edit?usp=drivesdk",
+      "tipo": "application/vnd.google-apps.form",
+      "modificado": "2025-11-10T16:13:55.945Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 1 MET02 - Estrategia de negocio aplicada a producto y tipos de métricas.pptx",
+      "id": "1bDtjEfJfxuHp9xBm1a82tNeQPfFv0VOX",
+      "url": "https://docs.google.com/presentation/d/1bDtjEfJfxuHp9xBm1a82tNeQPfFv0VOX/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2025-11-06T16:39:06.919Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "PD14 - Product Strategy: talk métricas.pptx",
+      "id": "1peot-uFMIadaTHgI44rLLlsvt1fawWhP",
+      "url": "https://docs.google.com/presentation/d/1peot-uFMIadaTHgI44rLLlsvt1fawWhP/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2025-10-08T00:26:20.888Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 4 PD11 - Product Strategy: Conectando el producto con la estrategia del negocio - Jonathan Lazo.pptx .pptx",
+      "id": "1j6EmWSPqH04JO9dIitZYvA1D24xY3aoq",
+      "url": "https://docs.google.com/presentation/d/1j6EmWSPqH04JO9dIitZYvA1D24xY3aoq/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2025-10-07T15:24:15.669Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 12 MET01 - Working session.pptx",
+      "id": "1Jqu1or3HQYHJpaK1LpUgw1MChpZoz2-_",
+      "url": "https://docs.google.com/presentation/d/1Jqu1or3HQYHJpaK1LpUgw1MChpZoz2-_/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2025-10-06T23:50:08.042Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 10 MET01 - Growth framework y experimentación.pptx",
+      "id": "1gJmFJ1FBtqXLsPSaKGM3K_ywcqPTAlK5",
+      "url": "https://docs.google.com/presentation/d/1gJmFJ1FBtqXLsPSaKGM3K_ywcqPTAlK5/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2025-09-30T00:00:10.220Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 9 MET01 - Working session.pptx",
+      "id": "1eO_wuFXyGQFIke8Jo2uIuwZi8G3usts1",
+      "url": "https://docs.google.com/presentation/d/1eO_wuFXyGQFIke8Jo2uIuwZi8G3usts1/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2025-09-24T21:53:18.753Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 8 MET08 - Funnels, generación de insights y optimización del producto digital.pptx",
+      "id": "1HlH7h5m0j1iuz43NFLEKCcKKwmicBNbi",
+      "url": "https://docs.google.com/presentation/d/1HlH7h5m0j1iuz43NFLEKCcKKwmicBNbi/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2025-09-23T02:00:27.473Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 1 MET01 - Estrategia de negocio aplicada a producto y tipos de métricas.pptx",
+      "id": "1R0PVwYECt7A1NIfNizkWS5vBFh28DvDx",
+      "url": "https://docs.google.com/presentation/d/1R0PVwYECt7A1NIfNizkWS5vBFh28DvDx/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2025-09-22T04:43:19.769Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "PD13  W| Experimentando para escalar - Jonathan Lazo.pptx",
+      "id": "1imb55H_QpbuW8by1n9HQ3DSR8RTLAO-6",
+      "url": "https://docs.google.com/presentation/d/1imb55H_QpbuW8by1n9HQ3DSR8RTLAO-6/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2025-09-17T01:09:35.667Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "PD11  W | Experimentando para escalar - Jonathan Lazo.pptx",
+      "id": "12lUoOzqom_XDVtBAPW4BNOUpDcgfcr2A",
+      "url": "https://docs.google.com/presentation/d/12lUoOzqom_XDVtBAPW4BNOUpDcgfcr2A/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2025-09-17T01:09:28.076Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "PD13 - Experimentando para escalar - Jonathan Lazo.pptx",
+      "id": "1qAs03MwLw-Ao19tKv62LwPwImR8lL3E4",
+      "url": "https://docs.google.com/presentation/d/1qAs03MwLw-Ao19tKv62LwPwImR8lL3E4/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2025-09-12T06:40:44.159Z",
+      "contenido_leido": true
+    },
+    {
+      "titulo": "Copia de PD010 - S4 - Product Strategy: Conectando el producto con la estrategia del negocio - Jonathan Lazo.pptx",
+      "id": "163K9VqBUn7sw6IJQm7QWBxQR2SSFg1qD",
+      "url": "https://docs.google.com/presentation/d/163K9VqBUn7sw6IJQm7QWBxQR2SSFg1qD/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2025-08-27T06:07:43.409Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "PD12 - Experimentando para escalar - Jonathan Lazo.pptx",
+      "id": "1xb6nz6hYfy0NFCqFEysA5L9Pq4yFXb6E",
+      "url": "https://docs.google.com/presentation/d/1xb6nz6hYfy0NFCqFEysA5L9Pq4yFXb6E/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2025-08-25T07:07:20.671Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "PD12  W | Experimentando para escalar - Jonathan Lazo.pptx",
+      "id": "13Svq7sm9SXWiQpXA5eqFTR2zns-aJcl3",
+      "url": "https://docs.google.com/presentation/d/13Svq7sm9SXWiQpXA5eqFTR2zns-aJcl3/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2025-06-23T23:56:38.859Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "PD11 - Experimentando para escalar - Jonathan Lazo.pptx",
+      "id": "1sIoDugV_G0_ybIU_pfsggAJe58BLNvmc",
+      "url": "https://docs.google.com/presentation/d/1sIoDugV_G0_ybIU_pfsggAJe58BLNvmc/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2025-04-03T01:48:39.888Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "PD07 - Sesión 18 - Experimentando para escalar - Jonathan Lazo.pptx",
+      "id": "1L4EY6eBLqDOAHxPBnm2z-UpycOJliEh4",
+      "url": "https://docs.google.com/presentation/d/1L4EY6eBLqDOAHxPBnm2z-UpycOJliEh4/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2024-06-13T03:48:53.955Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "PD07 - Sesión 17 - Midiendo el éxito de los productos - Jonathan Lazo.pptx",
+      "id": "1iPvtROSGRCPd6cg8mlaV-aGrC0iDDGsr",
+      "url": "https://docs.google.com/presentation/d/1iPvtROSGRCPd6cg8mlaV-aGrC0iDDGsr/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2024-06-10T14:13:53.188Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 2 MET03 - Métricas clave de negocio.pptx",
+      "id": "1956gVTIoNRw7oN1ExJXNGHICKktp0Zhw",
+      "url": "https://docs.google.com/presentation/d/1956gVTIoNRw7oN1ExJXNGHICKktp0Zhw/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2026-04-27T13:42:01.981Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 12 MET03 - Working session.pptx",
+      "id": "1Z6v7W1B77tKHPawsLdJgPkP_z_Ulaoac",
+      "url": "https://docs.google.com/presentation/d/1Z6v7W1B77tKHPawsLdJgPkP_z_Ulaoac/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2026-03-18T08:29:24.757Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 11 MET03 - Growth framework y experimentación.pptx",
+      "id": "1kki9-psVj-fPU7g83de1uOk_AOAVEAXM",
+      "url": "https://docs.google.com/presentation/d/1kki9-psVj-fPU7g83de1uOk_AOAVEAXM/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2026-03-17T01:47:59.806Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 10 MET03 - Working session.pptx",
+      "id": "1vNIQK7VLECYimnbymff_GHFL9-0oJg-J",
+      "url": "https://docs.google.com/presentation/d/1vNIQK7VLECYimnbymff_GHFL9-0oJg-J/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2026-03-12T18:42:26.639Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 9 MET03 - Funnels, generación de insights y optimización del producto digital.pptx",
+      "id": "1XmD9R4hQZLrEjbSsuIldfXaSy9PqpN24",
+      "url": "https://docs.google.com/presentation/d/1XmD9R4hQZLrEjbSsuIldfXaSy9PqpN24/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2026-03-12T00:05:31.522Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 8 MET03 - Frameworks de foco y seguimiento.pptx",
+      "id": "1g1zcl0OmNTGClmgmexTOC-35xt49HyOD",
+      "url": "https://docs.google.com/presentation/d/1g1zcl0OmNTGClmgmexTOC-35xt49HyOD/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2026-03-05T00:42:48.934Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 1 MET03 - Estrategia de negocio aplicada a producto y tipos de métricas.pptx",
+      "id": "1pGG_-qYf2yqKbpBKblexFvxAN4JqiEns",
+      "url": "https://docs.google.com/presentation/d/1pGG_-qYf2yqKbpBKblexFvxAN4JqiEns/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2026-02-10T16:41:57.973Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 12 MET05 - Working session.pptx",
+      "id": "17811nDtV-RE_R-9AyaHe60PkpBuq9g4Y",
+      "url": "https://docs.google.com/presentation/d/17811nDtV-RE_R-9AyaHe60PkpBuq9g4Y/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2026-08-19T04:00:03.687Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 10 MET05 - Working session.pptx",
+      "id": "1Zl_78cz82oKQkUY4vU9R2SFfXmLtZSt7",
+      "url": "https://docs.google.com/presentation/d/1Zl_78cz82oKQkUY4vU9R2SFfXmLtZSt7/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2026-08-13T01:16:29.142Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 8 MET05 - Funnels, generación de insights y optimización del producto digital.pptx",
+      "id": "1a89s1-RdrR8H0HTqHhU5Lujf6tnBWu5c",
+      "url": "https://docs.google.com/presentation/d/1a89s1-RdrR8H0HTqHhU5Lujf6tnBWu5c/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2026-08-11T00:57:37.626Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 8 MET04 - Frameworks de foco y seguimiento.pptx",
+      "id": "163f-ukpq1KHMBRQuizdaCZSO6gUAl9Cj",
+      "url": "https://docs.google.com/presentation/d/163f-ukpq1KHMBRQuizdaCZSO6gUAl9Cj/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2026-07-08T22:29:23.983Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 13 MET04 - Working session.pptx",
+      "id": "1Bru0xB8U2P0UhjhNcspkEf08TBb-7fQ1",
+      "url": "https://docs.google.com/presentation/d/1Bru0xB8U2P0UhjhNcspkEf08TBb-7fQ1/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2026-06-08T23:46:58.325Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 12 MET04 - Working session.pptx",
+      "id": "1Myjpj4cC6sf46S-43ATD6iuGO2f8j3uQ",
+      "url": "https://docs.google.com/presentation/d/1Myjpj4cC6sf46S-43ATD6iuGO2f8j3uQ/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2026-06-03T19:52:34.239Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 11 MET04 - Growth framework y experimentación.pptx",
+      "id": "1qssT5APXpFetsQbOqj1YcRT8kOk9MM2H",
+      "url": "https://docs.google.com/presentation/d/1qssT5APXpFetsQbOqj1YcRT8kOk9MM2H/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2026-06-01T21:13:01.740Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 10 MET04 - Working session.pptx",
+      "id": "1agr1HUTP10fwD6ARahgdxBj_-klfP0Oa",
+      "url": "https://docs.google.com/presentation/d/1agr1HUTP10fwD6ARahgdxBj_-klfP0Oa/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2026-05-27T21:30:17.372Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 9 MET04 - Funnels, generación de insights y optimización del producto digital.pptx",
+      "id": "1QzaKCs221GZBGpsQIs0wj9G2kMXl_whM",
+      "url": "https://docs.google.com/presentation/d/1QzaKCs221GZBGpsQIs0wj9G2kMXl_whM/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2026-05-26T01:12:41.492Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 2 MET04 - Métricas clave de negocio.pptx",
+      "id": "1F6yWio_e7S72mvX7XnBZehnd60mInKAo",
+      "url": "https://docs.google.com/presentation/d/1F6yWio_e7S72mvX7XnBZehnd60mInKAo/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2026-04-30T03:53:12.804Z",
+      "contenido_leido": false
+    },
+    {
+      "titulo": "SESIÓN 1 MET04 - Estrategia de negocio aplicada a producto y tipos de métricas.pptx",
+      "id": "1EezO8n1aQ5JEPWqsCui6j5RoJPMbGuZj",
+      "url": "https://docs.google.com/presentation/d/1EezO8n1aQ5JEPWqsCui6j5RoJPMbGuZj/edit?usp=drivesdk&ouid=108945786299652115768&rtpof=true&sd=true",
+      "tipo": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "modificado": "2026-04-28T01:38:42.013Z",
+      "contenido_leido": false
+    }
+  ]
+}
